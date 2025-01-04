@@ -1360,3 +1360,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jan2025 03:49:23.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/[::1]:58914] logged in with entity id 210 at (57.5, 128.0, 0.5)
 [04Jan2025 03:49:23.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
 [04Jan2025 03:49:29.579] [Worker-Main-2/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/block/entity/trialspawner/TrialSpawner
+[04Jan2025 03:49:40.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kayncer> serveo.net:37876
+[04Jan2025 03:49:54.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[04Jan2025 03:50:27.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Sandcrawler'/690, l='ServerLevel[world]', x=139.50, y=-400.00, z=157.50] died: Sandcrawler was killed
+[04Jan2025 03:50:32.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Sandcrawler'/723, l='ServerLevel[world]', x=127.50, y=-400.00, z=155.50] died: Sandcrawler was killed
+[04Jan2025 03:50:39.348] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[04Jan2025 03:50:39.350] [Worker-Main-2/DEBUG] [mixin/]: waystones.mixins.json:JigsawPlacementPlacerMixin: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[04Jan2025 03:50:52.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! -0.306634139990436,0.41999998688697815,-10.3742071161343
+[04Jan2025 03:50:52.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! 1.7051109841271064,-1.1866870787446828,9.904087388588408
+[04Jan2025 03:50:52.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2946ms or 58 ticks behind
+[04Jan2025 03:51:21.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! 0.9330168967633625,-8.768476202412984,-4.921100067069204
+[04Jan2025 03:51:21.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4876ms or 97 ticks behind
+[04Jan2025 03:51:23.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick fell from a high place
+[04Jan2025 03:51:49.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 03:51:49.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 03:54:12.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Monster Hunter]
+[04Jan2025 03:54:16.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Monster Hunter]
+[04Jan2025 03:54:56.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Zombie
+[04Jan2025 03:55:36.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Sandcrawler'/3117, l='ServerLevel[world]', x=-60.50, y=125.00, z=-109.10] died: Sandcrawler suffocated in a wall
+[04Jan2025 03:55:58.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Sweet Dreams]
+[04Jan2025 03:56:37.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Sandcrawler'/3327, l='ServerLevel[world]', x=94.94, y=130.94, z=-190.34] died: Sandcrawler was slain by Iron Golem
+[04Jan2025 03:56:39.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by Zombie
+[04Jan2025 03:56:49.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 03:56:49.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 03:57:10.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[04Jan2025 03:58:13.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[04Jan2025 03:58:24.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Ice Bucket Challenge]
+[04Jan2025 03:58:49.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=442, y=123, z=-73} BlockPos{x=443, y=121, z=-73}
+[04Jan2025 03:59:08.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Gamerule keepInventory is now set to: true]
+[04Jan2025 03:59:34.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by Zombie
+[04Jan2025 03:59:41.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was pricked to death
