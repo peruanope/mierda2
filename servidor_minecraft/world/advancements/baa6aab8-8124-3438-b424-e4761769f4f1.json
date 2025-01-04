@@ -1,0 +1,79 @@
+{
+  "mt:item_related_advancements/mountain_leggings": {
+    "criteria": {
+      "requirement": "2025-01-04 03:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/distant_lands": {
+    "criteria": {
+      "minecraft:desert": "2025-01-04 03:41:26 +0000",
+      "clifftree:shrubland": "2025-01-04 03:40:51 +0000",
+      "minecraft:plains": "2025-01-04 03:42:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-04 03:40:50 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/small/timer": {
+    "criteria": {
+      "requirement": "2025-01-04 03:40:50 +0000"
+    },
+    "done": true
+  },
+  "mt:item_related_advancements/jungle_shoes": {
+    "criteria": {
+      "requirement": "2025-01-04 03:40:51 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/step_height/timer": {
+    "criteria": {
+      "requirement": "2025-01-04 03:40:50 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/reach/timer": {
+    "criteria": {
+      "requirement": "2025-01-04 03:40:50 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/big/timer": {
+    "criteria": {
+      "requirement": "2025-01-04 03:40:50 +0000"
+    },
+    "done": true
+  },
+  "mt:load": {
+    "criteria": {
+      "requirement": "2025-01-04 03:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2025-01-04 03:41:26 +0000",
+      "clifftree:shrubland": "2025-01-04 03:40:51 +0000",
+      "minecraft:plains": "2025-01-04 03:42:20 +0000"
+    },
+    "done": false
+  },
+  "mt:mechanics/charm/timer": {
+    "criteria": {
+      "requirement": "2025-01-04 03:40:51 +0000"
+    },
+    "done": true
+  },
+  "mt:mechanics/light/timer": {
+    "criteria": {
+      "requirement": "2025-01-04 03:40:50 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
