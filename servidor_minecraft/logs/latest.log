@@ -129,3 +129,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jan2025 03:59:08.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Gamerule keepInventory is now set to: true]
 [04Jan2025 03:59:34.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by Zombie
 [04Jan2025 03:59:41.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was pricked to death
+[04Jan2025 04:00:03.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Sandcrawler'/5873, l='ServerLevel[world]', x=100.01, y=124.02, z=-179.98] died: Sandcrawler suffocated in a wall
+[04Jan2025 04:01:29.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer lost connection: Timed out
+[04Jan2025 04:01:29.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer left the game
+[04Jan2025 04:01:29.349] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jan2025 04:01:45.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Husk
+[04Jan2025 04:01:54.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Timed out
+[04Jan2025 04:01:54.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
