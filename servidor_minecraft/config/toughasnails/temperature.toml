@@ -1,3 +1,4 @@
+
 [general]
 	#Duration of heating or cooling effects given by consuming items.
 	consumable_effect_duration = 1200
@@ -55,3 +56,4 @@
 	night_hot_temperature_change = -2
 	#Amount to change the temperature at night when the original temperature is not hot.
 	night_temperature_change = -1
+

@@ -1,138 +1,671 @@
-[04Jan2025 03:44:34.828] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
-[04Jan2025 03:44:34.831] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.5+11-LTS
-[04Jan2025 03:44:34.833] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[04Jan2025 03:44:35.512] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[04Jan2025 03:44:35.772] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/mierda2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[04Jan2025 03:44:36.417] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/mierda2/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[04Jan2025 03:44:36.840] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[04Jan2025 03:44:38.662] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[04Jan2025 03:44:38.757] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[04Jan2025 03:44:39.024] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
-[04Jan2025 03:44:39.141] [main/WARN] [mixin/]: Reference map 'trade_cycling.refmap.json' for trade_cycling.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.144] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.146] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.152] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.156] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.159] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.192] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.194] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.376] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.378] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.380] [main/WARN] [mixin/]: Reference map 'toughasnails.refmap.json' for toughasnails.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.382] [main/WARN] [mixin/]: Reference map 'toughasnails.refmap.json' for toughasnails.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.383] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.385] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:39.386] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 03:44:40.834] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[04Jan2025 03:44:41.832] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/mierda2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/mierda2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/mierda2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/mierda2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[04Jan2025 03:44:42.382] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/mierda2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/mierda2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/mierda2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/mierda2/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[04Jan2025 03:44:53.242] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
-[04Jan2025 03:44:53.549] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path toughasnails/thirst.toml
-[04Jan2025 03:44:53.550] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path toughasnails/temperature.toml
-[04Jan2025 03:44:53.652] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.9, for MC 1.21.1 with MCP 20240808.132146
-[04Jan2025 03:44:53.652] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.9 Initialized
-[04Jan2025 03:44:53.684] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[04Jan2025 03:44:53.756] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Registering server started event...
-[04Jan2025 03:44:54.673] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Loaded More Mobs by Tschipcraft successfully!
-[04Jan2025 03:44:55.280] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
-[04Jan2025 03:44:56.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: BETA Current: 1.21.1-1.0.15 Target: 1.21.1-1.0.14
-[04Jan2025 03:44:56.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limbo_dimensiondatapack] Starting version check at https://api.modrinth.com/updates/KpbQh4CC/forge_updates.json
-[04Jan2025 03:44:56.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limbo_dimensiondatapack] Found status: OUTDATED Current: 3.0.4.1.21.1 Target: 3.0.4.1.21.1+mod
-[04Jan2025 03:44:56.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Starting version check at https://api.modrinth.com/updates/HQsBdHGd/forge_updates.json
-[04Jan2025 03:44:56.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_edf_remastered] Found status: BETA_OUTDATED Current: 5.0-beta4 Target: 5.0-beta4+mod
-[04Jan2025 03:44:56.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_scorched] Starting version check at https://api.modrinth.com/updates/yID404Mu/forge_updates.json
-[04Jan2025 03:44:56.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_scorched] Found status: OUTDATED Current: 1.1.4a Target: 1.1.4a+mod
-[04Jan2025 03:44:56.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_mine_treasure] Starting version check at https://api.modrinth.com/updates/5y2R1ofr/forge_updates.json
-[04Jan2025 03:44:56.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_mine_treasure] Found status: OUTDATED Current: 1.4.6 Target: 1.4.6+mod
-[04Jan2025 03:44:56.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[04Jan2025 03:44:56.823] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.4.4 Target: null
-[04Jan2025 03:44:56.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lithosphere] Starting version check at https://api.modrinth.com/updates/iv9jp2k9/forge_updates.json
-[04Jan2025 03:44:56.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lithosphere] Found status: OUTDATED Current: 1.3 Target: 1.3+mod
-[04Jan2025 03:44:56.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_clifftree] Starting version check at https://api.modrinth.com/updates/59ypHk8x/forge_updates.json
-[04Jan2025 03:44:57.040] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_clifftree] Found status: OUTDATED Current: 1.7 Target: 1.7+mod
-[04Jan2025 03:44:57.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_cherry_villages] Starting version check at https://api.modrinth.com/updates/Xtpwas3W/forge_updates.json
-[04Jan2025 03:44:57.085] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_cherry_villages] Found status: UP_TO_DATE Current: 1.0.8 Target: null
-[04Jan2025 03:44:57.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[04Jan2025 03:44:57.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 52.0.9 Target: 52.0.39
-[04Jan2025 03:44:57.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Starting version check at https://api.modrinth.com/updates/HJR6V0I2/forge_updates.json
-[04Jan2025 03:44:57.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Found status: UP_TO_DATE Current: 1.5.4+mod Target: null
-[04Jan2025 03:44:58.001] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04Jan2025 03:45:03.174] [Worker-Main-1/WARN] [net.minecraft.server.ReloadableServerRegistries/]: Found loot table element validation problem in {minecraft:loot_table/minecraft:blocks/snow_block}.pools[0].entries[0]: Unreachable entry!
-[04Jan2025 03:45:07.233] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1384 recipes
-[04Jan2025 03:45:07.238] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function scorched:cactus_juice/give
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Expected whitespace to end one argument, but found trailing data at position 14: ... @s potion<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
-	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Expected whitespace to end one argument, but found trailing data at position 14: ... @s potion<--[HERE]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:80) ~[forge-1.21.1-52.0.9-server.jar!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:89) ~[forge-1.21.1-52.0.9-server.jar!/:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+[05Jan2025 00:17:56.859] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[05Jan2025 00:17:56.887] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[05Jan2025 00:17:57.823] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Jan2025 00:17:57.904] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/mierda2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Jan2025 00:17:58.354] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mierda2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jan2025 00:17:58.356] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mierda2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jan2025 00:17:58.358] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mierda2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jan2025 00:17:58.360] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mierda2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jan2025 00:17:58.564] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[05Jan2025 00:18:02.400] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Jan2025 00:18:02.582] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[05Jan2025 00:18:09.351] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[05Jan2025 00:18:09.354] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[05Jan2025 00:18:13.090] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[05Jan2025 00:18:13.092] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[05Jan2025 00:18:13.092] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[05Jan2025 00:18:13.093] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[05Jan2025 00:18:15.831] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[05Jan2025 00:18:16.339] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/mierda2/servidor_minecraft/config/endrem.toml is not correct. Correcting
+[05Jan2025 00:18:16.341] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key endrem was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:16.341] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key endrem.throw_ender_eye was corrected from null to its default, false. 
+[05Jan2025 00:18:16.345] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key endrem.use_ender_eye was corrected from null to its default, false. 
+[05Jan2025 00:18:16.345] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key endrem.frame_has_eye was corrected from null to its default, false. 
+[05Jan2025 00:18:16.346] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key endrem.eye_break_chance was corrected from null to its default, 10. 
+[05Jan2025 00:18:16.347] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key endrem.can_remove_eye was corrected from null to its default, false. 
+[05Jan2025 00:18:16.348] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key endrem.is_cryptic_eye_obtainable was corrected from null to its default, true. 
+[05Jan2025 00:18:16.349] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key endrem.is_evil_eye_obtainable was corrected from null to its default, true. 
+[05Jan2025 00:18:16.818] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/mierda2/servidor_minecraft/config/epicfight-client.toml is not correct. Correcting
+[05Jan2025 00:18:16.820] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:16.820] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.long_press_count was corrected from null to its default, 2. 
+[05Jan2025 00:18:16.821] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.max_hit_projectiles was corrected from null to its default, 30. 
+[05Jan2025 00:18:16.822] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.health_bar_show_option was corrected from null to its default, hurt. 
+[05Jan2025 00:18:16.823] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.show_target_indicator was corrected from null to its default, true. 
+[05Jan2025 00:18:16.824] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.filter_animation was corrected from null to its default, false. 
+[05Jan2025 00:18:16.827] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.laser_pointer_color was corrected from null to its default, 0.328125. 
+[05Jan2025 00:18:16.828] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.enable_laser_pointer was corrected from null to its default, true. 
+[05Jan2025 00:18:16.830] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.camera_auto_switch was corrected from null to its default, false. 
+[05Jan2025 00:18:16.832] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.auto_preparation was corrected from null to its default, false. 
+[05Jan2025 00:18:16.832] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.blood_effects was corrected from null to its default, true. 
+[05Jan2025 00:18:16.833] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.no_mining_in_combat was corrected from null to its default, true. 
+[05Jan2025 00:18:16.835] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.aiming_correction was corrected from null to its default, true. 
+[05Jan2025 00:18:16.836] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.show_epicfight_attributes was corrected from null to its default, true. 
+[05Jan2025 00:18:16.838] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.use_animation_shader was corrected from null to its default, false. 
+[05Jan2025 00:18:16.843] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.first_person_model was corrected from null to its default, true. 
+[05Jan2025 00:18:16.845] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.battle_autoswitch_items was corrected from null to its default, []. 
+[05Jan2025 00:18:16.846] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.mining_autoswitch_items was corrected from null to its default, []. 
+[05Jan2025 00:18:16.847] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:16.848] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.stamina_bar_x was corrected from null to its default, 120. 
+[05Jan2025 00:18:16.848] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.stamina_bar_y was corrected from null to its default, 10. 
+[05Jan2025 00:18:16.850] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.stamina_bar_x_base was corrected from null to its default, RIGHT. 
+[05Jan2025 00:18:16.855] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.stamina_bar_y_base was corrected from null to its default, BOTTOM. 
+[05Jan2025 00:18:16.858] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.weapon_innate_x was corrected from null to its default, 42. 
+[05Jan2025 00:18:16.858] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.weapon_innate_y was corrected from null to its default, 48. 
+[05Jan2025 00:18:16.859] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.weapon_innate_x_base was corrected from null to its default, RIGHT. 
+[05Jan2025 00:18:16.863] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.weapon_innate_y_base was corrected from null to its default, BOTTOM. 
+[05Jan2025 00:18:16.864] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_x was corrected from null to its default, 70. 
+[05Jan2025 00:18:16.865] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_y was corrected from null to its default, 36. 
+[05Jan2025 00:18:16.866] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_x_base was corrected from null to its default, RIGHT. 
+[05Jan2025 00:18:16.866] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_y_base was corrected from null to its default, BOTTOM. 
+[05Jan2025 00:18:16.867] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.passives_align_direction was corrected from null to its default, HORIZONTAL. 
+[05Jan2025 00:18:16.868] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.charging_bar_x was corrected from null to its default, -119. 
+[05Jan2025 00:18:16.869] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.charging_bar_y was corrected from null to its default, 60. 
+[05Jan2025 00:18:16.869] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.charging_bar_x_base was corrected from null to its default, CENTER. 
+[05Jan2025 00:18:16.870] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.ui.charging_bar_y_base was corrected from null to its default, CENTER. 
+[05Jan2025 00:18:16.881] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/mierda2/servidor_minecraft/config/epicfight.toml is not correct. Correcting
+[05Jan2025 00:18:16.882] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:16.883] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.doVanillaAttack was corrected from null to its default, true. 
+[05Jan2025 00:18:16.883] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.globalStun was corrected from null to its default, true. 
+[05Jan2025 00:18:16.884] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.keepSkills was corrected from null to its default, true. 
+[05Jan2025 00:18:16.884] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.hasFallAnimation was corrected from null to its default, true. 
+[05Jan2025 00:18:16.885] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.disapleEntityUI was corrected from null to its default, false. 
+[05Jan2025 00:18:16.886] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.stiffComboAttacks was corrected from null to its default, true. 
+[05Jan2025 00:18:16.886] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.noMobsInBossfight was corrected from null to its default, true. 
+[05Jan2025 00:18:16.890] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.epicDrop was corrected from null to its default, true. 
+[05Jan2025 00:18:16.891] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.weightPenalty was corrected from null to its default, 100. 
+[05Jan2025 00:18:16.892] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.canSwitchCombat was corrected from null to its default, true. 
+[05Jan2025 00:18:16.892] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.initialPlayerMode was corrected from null to its default, MINING. 
+[05Jan2025 00:18:16.897] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:16.898] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot.skill_book_mob_drop_chance_modifier was corrected from null to its default, 0. 
+[05Jan2025 00:18:16.899] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot.skill_book_chest_drop_chance_modifier was corrected from null to its default, 0. 
+[05Jan2025 00:18:16.916] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[05Jan2025 00:18:17.356] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[05Jan2025 00:18:17.357] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[05Jan2025 00:18:17.448] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[05Jan2025 00:18:21.596] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[05Jan2025 00:18:21.607] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[05Jan2025 00:18:21.611] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[05Jan2025 00:18:21.614] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[05Jan2025 00:18:21.683] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[05Jan2025 00:18:21.732] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Jan2025 00:18:21.733] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Jan2025 00:18:21.734] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Jan2025 00:18:21.735] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Jan2025 00:18:21.735] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Jan2025 00:18:21.736] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Jan2025 00:18:21.737] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Jan2025 00:18:21.738] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Jan2025 00:18:21.741] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Jan2025 00:18:21.782] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/mierda2/servidor_minecraft/config/blue_skies-common.toml is not correct. Correcting
+[05Jan2025 00:18:21.784] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Debug was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.785] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Debug.log_missing_registry_data_for_datapacks was corrected from null to its default, false. 
+[05Jan2025 00:18:21.786] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Debug.write_world_regions_to_disk was corrected from null to its default, true. 
+[05Jan2025 00:18:21.787] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Debug.crash_on_missing_capability_for_dungeon was corrected from null to its default, false. 
+[05Jan2025 00:18:21.791] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Holiday Content was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.791] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Holiday Content.allow_halloween_content was corrected from null to its default, true. 
+[05Jan2025 00:18:21.793] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Holiday Content.allow_christmas_content was corrected from null to its default, true. 
+[05Jan2025 00:18:21.797] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Gatekeeper was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.798] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Gatekeeper.zeal_lighter_cost was corrected from null to its default, 8. 
+[05Jan2025 00:18:21.801] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mod Compatibility was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.802] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mod Compatibility.allowed_mods_for_feature_gen was corrected from null to its default, []. 
+[05Jan2025 00:18:21.805] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mod Compatibility.allowed_mobs_for_spawning was corrected from null to its default, []. 
+[05Jan2025 00:18:21.818] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/mierda2/servidor_minecraft/config/nyctophobia-common.toml is not correct. Correcting
+[05Jan2025 00:18:21.821] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.821] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.nyctophobia_weight was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.822] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.nyctophobia_weight.weight was corrected from null to its default, 1. 
+[05Jan2025 00:18:21.822] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.ancient_dead_coral_reef was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.823] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.ancient_dead_coral_reef.generate was corrected from null to its default, true. 
+[05Jan2025 00:18:21.823] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.ancient_dead_coral_reef.replaceableBiomes was corrected from null to its default, [beach]. 
+[05Jan2025 00:18:21.824] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.haunted_forest was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.824] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.haunted_forest.generate was corrected from null to its default, true. 
+[05Jan2025 00:18:21.826] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.haunted_forest.replaceableBiomes was corrected from null to its default, [windswept_forest]. 
+[05Jan2025 00:18:21.826] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.haunted_lakes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.826] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.haunted_lakes.generate was corrected from null to its default, true. 
+[05Jan2025 00:18:21.827] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.haunted_lakes.replaceableBiomes was corrected from null to its default, [swamp]. 
+[05Jan2025 00:18:21.827] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.eroded_haunted_forest was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.828] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.eroded_haunted_forest.generate was corrected from null to its default, true. 
+[05Jan2025 00:18:21.828] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.eroded_haunted_forest.replaceableBiomes was corrected from null to its default, [meadow]. 
+[05Jan2025 00:18:21.829] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.deep_dark_forest was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.832] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.deep_dark_forest.generate was corrected from null to its default, true. 
+[05Jan2025 00:18:21.833] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Config.deep_dark_forest.replaceableBiomes was corrected from null to its default, [dark_forest]. 
+[05Jan2025 00:18:21.836] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.837] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_haunted_forest was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.837] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_haunted_forest.generate was corrected from null to its default, true. 
+[05Jan2025 00:18:21.837] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_haunted_forest.density was corrected from null to its default, 0.35. 
+[05Jan2025 00:18:21.838] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_haunted_forest.minY was corrected from null to its default, 63. 
+[05Jan2025 00:18:21.838] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_haunted_forest.maxY was corrected from null to its default, 148. 
+[05Jan2025 00:18:21.838] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_haunted_lakes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.839] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_haunted_lakes.generate was corrected from null to its default, true. 
+[05Jan2025 00:18:21.839] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_haunted_lakes.density was corrected from null to its default, 0.3. 
+[05Jan2025 00:18:21.840] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_haunted_lakes.minY was corrected from null to its default, 63. 
+[05Jan2025 00:18:21.841] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_haunted_lakes.maxY was corrected from null to its default, 128. 
+[05Jan2025 00:18:21.842] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_eroded_haunted_forest was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.845] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_eroded_haunted_forest.generate was corrected from null to its default, true. 
+[05Jan2025 00:18:21.846] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_eroded_haunted_forest.density was corrected from null to its default, 0.35. 
+[05Jan2025 00:18:21.847] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_eroded_haunted_forest.minY was corrected from null to its default, 93. 
+[05Jan2025 00:18:21.849] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Biome Fog Config.fog_eroded_haunted_forest.maxY was corrected from null to its default, 160. 
+[05Jan2025 00:18:21.851] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Misc Config was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.852] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nyctophobia - Misc Config.haunted_lakes_soul_lanterns was corrected from null to its default, false. 
+[05Jan2025 00:18:21.870] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/mierda2/servidor_minecraft/config/waystones-common.toml is not correct. Correcting
+[05Jan2025 00:18:21.872] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.872] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.inverseXpCost was corrected from null to its default, false. 
+[05Jan2025 00:18:21.873] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.blocksPerXpLevel was corrected from null to its default, 1000. 
+[05Jan2025 00:18:21.874] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.minimumBaseXpCost was corrected from null to its default, 0.0. 
+[05Jan2025 00:18:21.874] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.maximumBaseXpCost was corrected from null to its default, 3.0. 
+[05Jan2025 00:18:21.875] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.xpCostPerLeashed was corrected from null to its default, 0. 
+[05Jan2025 00:18:21.876] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.dimensionalWarpXpCost was corrected from null to its default, 3. 
+[05Jan2025 00:18:21.878] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.globalWaystoneXpCostMultiplier was corrected from null to its default, 0.0. 
+[05Jan2025 00:18:21.879] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.warpStoneXpCostMultiplier was corrected from null to its default, 0.0. 
+[05Jan2025 00:18:21.880] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.waystoneXpCostMultiplier was corrected from null to its default, 0.0. 
+[05Jan2025 00:18:21.881] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.sharestoneXpCostMultiplier was corrected from null to its default, 0.0. 
+[05Jan2025 00:18:21.882] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.portstoneXpCostMultiplier was corrected from null to its default, 0.0. 
+[05Jan2025 00:18:21.883] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.warpPlateXpCostMultiplier was corrected from null to its default, 0.0. 
+[05Jan2025 00:18:21.884] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.inventoryButtonXpCostMultiplier was corrected from null to its default, 0.0. 
+[05Jan2025 00:18:21.890] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.890] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.restrictToCreative was corrected from null to its default, false. 
+[05Jan2025 00:18:21.891] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.restrictRenameToOwner was corrected from null to its default, false. 
+[05Jan2025 00:18:21.892] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.generatedWaystonesUnbreakable was corrected from null to its default, false. 
+[05Jan2025 00:18:21.893] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.transportLeashed was corrected from null to its default, true. 
+[05Jan2025 00:18:21.894] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.transportLeashedDimensional was corrected from null to its default, true. 
+[05Jan2025 00:18:21.895] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.leashedDenyList was corrected from null to its default, [minecraft:wither]. 
+[05Jan2025 00:18:21.896] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.dimensionalWarp was corrected from null to its default, ALLOW. 
+[05Jan2025 00:18:21.897] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.dimensionalWarpAllowList was corrected from null to its default, []. 
+[05Jan2025 00:18:21.899] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.dimensionalWarpDenyList was corrected from null to its default, []. 
+[05Jan2025 00:18:21.901] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.allowWaystoneToWaystoneTeleport was corrected from null to its default, true. 
+[05Jan2025 00:18:21.902] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.globalWaystoneSetupRequiresCreativeMode was corrected from null to its default, true. 
+[05Jan2025 00:18:21.906] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.907] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns.globalWaystoneCooldownMultiplier was corrected from null to its default, 1.0. 
+[05Jan2025 00:18:21.908] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns.warpStoneCooldown was corrected from null to its default, 30. 
+[05Jan2025 00:18:21.909] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns.warpStoneUseTime was corrected from null to its default, 32. 
+[05Jan2025 00:18:21.910] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns.warpPlateUseTime was corrected from null to its default, 20. 
+[05Jan2025 00:18:21.912] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns.scrollUseTime was corrected from null to its default, 32. 
+[05Jan2025 00:18:21.913] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns.inventoryButtonCooldown was corrected from null to its default, 300. 
+[05Jan2025 00:18:21.914] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton.warpButtonX was corrected from null to its default, 58. 
+[05Jan2025 00:18:21.917] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton.warpButtonY was corrected from null to its default, 60. 
+[05Jan2025 00:18:21.919] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton.creativeWarpButtonX was corrected from null to its default, 88. 
+[05Jan2025 00:18:21.921] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton.creativeWarpButtonY was corrected from null to its default, 33. 
+[05Jan2025 00:18:21.922] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton.inventoryButtonX was corrected from 58 to its default, null. 
+[05Jan2025 00:18:21.922] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton.inventoryButtonY was corrected from 60 to its default, null. 
+[05Jan2025 00:18:21.923] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton.creativeInventoryButtonX was corrected from 88 to its default, null. 
+[05Jan2025 00:18:21.924] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton.creativeInventoryButtonY was corrected from 33 to its default, null. 
+[05Jan2025 00:18:21.925] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.worldGenStyle was corrected from null to its default, BIOME. 
+[05Jan2025 00:18:21.926] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.frequency was corrected from null to its default, 25. 
+[05Jan2025 00:18:21.928] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.dimensionAllowList was corrected from null to its default, [minecraft:overworld, minecraft:the_nether, minecraft:the_end]. 
+[05Jan2025 00:18:21.929] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.dimensionDenyList was corrected from null to its default, []. 
+[05Jan2025 00:18:21.931] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.customWaystoneNames was corrected from null to its default, []. 
+[05Jan2025 00:18:21.933] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.spawnInVillages was corrected from REGULAR to its default, true. 
+[05Jan2025 00:18:21.934] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.forceSpawnInVillages was corrected from null to its default, false. 
+[05Jan2025 00:18:21.936] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.wildWaystoneStyle was corrected from BIOME to its default, null. 
+[05Jan2025 00:18:21.936] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.chunksBetweenWildWaystones was corrected from 25 to its default, null. 
+[05Jan2025 00:18:21.938] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.wildWaystonesDimensionAllowList was corrected from [minecraft:overworld, minecraft:the_nether, minecraft:the_end] to its default, null. 
+[05Jan2025 00:18:21.939] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.wildWaystonesDimensionDenyList was corrected from [] to its default, null. 
+[05Jan2025 00:18:21.940] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.nameGenerationTemplate was corrected from {MrPork} to its default, null. 
+[05Jan2025 00:18:21.941] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.nameGenerationPresets was corrected from [] to its default, null. 
+[05Jan2025 00:18:21.942] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.displayWaystonesOnJourneyMap was corrected from null to its default, true. 
+[05Jan2025 00:18:21.944] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.preferJourneyMapIntegration was corrected from null to its default, true. 
+[05Jan2025 00:18:21.946] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.journeyMap was corrected from true to its default, null. 
+[05Jan2025 00:18:21.947] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.preferJourneyMapIntegrationMod was corrected from true to its default, null. 
+[05Jan2025 00:18:21.948] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.blueMap was corrected from true to its default, null. 
+[05Jan2025 00:18:21.949] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.dynmap was corrected from true to its default, null. 
+[05Jan2025 00:18:21.951] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from SimpleCommentedConfig:{restrictedWaystones=[PLAYER], defaultVisibility=ACTIVATION, allowedVisibilities=[], warpStoneUseTime=32, warpPlateUseTime=15, scrollUseTime=32} to its default, null. 
+[05Jan2025 00:18:21.952] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key teleports was corrected from SimpleCommentedConfig:{enableCosts=true, enableCooldowns=true, warpRequirements=[[is_not_interdimensional] scaled_add_xp_cost(distance, 0.01), [is_interdimensional] add_xp_cost(27), [source_is_warp_plate] multiply_xp_cost(0), [target_is_global] multiply_xp_cost(0), min_xp_cost(0), max_xp_cost(27), [source_is_inventory_button] add_cooldown(inventory_button, 300)], transportPets=DISABLED, transportLeashed=ENABLED, entityDenyList=[minecraft:wither]} to its default, null. 
+[05Jan2025 00:18:21.966] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/mierda2/servidor_minecraft/config/lostcities/common.toml is not correct. Correcting
+[05Jan2025 00:18:21.968] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:21.969] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.dimensionsWithProfiles was corrected from null to its default, [lostcities:lostcity=default]. 
+[05Jan2025 00:18:21.977] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/mierda2/servidor_minecraft/config/balm-common.toml is not correct. Correcting
+[05Jan2025 00:18:21.994] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key exampleResourceLocationSet was corrected from [minecraft:diamond, minecraft:dirt] to its default, null. 
+[05Jan2025 00:18:22.003] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/mierda2/servidor_minecraft/config/dynamictrees-common.toml is not correct. Correcting
+[05Jan2025 00:18:22.005] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vanilla was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:22.006] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vanilla.replaceVanillaSapling was corrected from null to its default, false. 
+[05Jan2025 00:18:22.007] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vanilla.replaceNyliumFungi was corrected from null to its default, true. 
+[05Jan2025 00:18:22.008] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vanilla.cancelVanillaVillageTrees was corrected from null to its default, true. 
+[05Jan2025 00:18:22.012] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:22.013] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.generateDirtBucketRecipes was corrected from null to its default, true. 
+[05Jan2025 00:18:22.014] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.biocharBrewingBase was corrected from null to its default, thick. 
+[05Jan2025 00:18:22.018] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key integration was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:22.020] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key integration.preferredSeasonMod was corrected from null to its default, *. 
+[05Jan2025 00:18:22.022] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key integration.enableSeasonalSeedDropFactor was corrected from null to its default, true. 
+[05Jan2025 00:18:22.023] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key integration.enableSeasonalGrowthFactor was corrected from null to its default, true. 
+[05Jan2025 00:18:22.025] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key integration.enableSeasonalFruitProductionFactor was corrected from null to its default, true. 
+[05Jan2025 00:18:22.040] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/mierda2/servidor_minecraft/config/structure_gel-common.toml is not correct. Correcting
+[05Jan2025 00:18:22.042] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key building_tool was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:22.044] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key building_tool.max_undos was corrected from null to its default, 64. 
+[05Jan2025 00:18:22.045] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key building_tool.clipboard_size was corrected from null to its default, 9. 
+[05Jan2025 00:18:22.046] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key building_tool.expiration_time was corrected from null to its default, 24. 
+[05Jan2025 00:18:22.049] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key debug was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:22.050] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key debug.console_debug was corrected from null to its default, false. 
+[05Jan2025 00:18:22.051] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key debug.advanced_gel_behavior was corrected from null to its default, true. 
+[05Jan2025 00:18:22.060] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/mierda2/servidor_minecraft/config/man_config.toml is not correct. Correcting
+[05Jan2025 00:18:22.062] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:22.063] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.enable_spawning was corrected from null to its default, true. 
+[05Jan2025 00:18:22.065] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.min_spawn_rate was corrected from null to its default, 5000.0. 
+[05Jan2025 00:18:22.067] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.max_spawn_rate was corrected from null to its default, 20000.0. 
+[05Jan2025 00:18:22.068] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.jumpscare was corrected from null to its default, true. 
+[05Jan2025 00:18:22.070] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.min_chase_duration was corrected from null to its default, 400.0. 
+[05Jan2025 00:18:22.071] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.max_chase_duration was corrected from null to its default, 1000.0. 
+[05Jan2025 00:18:22.073] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.climbing was corrected from null to its default, true. 
+[05Jan2025 00:18:22.075] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.vanish_distance was corrected from null to its default, 30.0. 
+[05Jan2025 00:18:22.077] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.spawn_at_day was corrected from null to its default, true. 
+[05Jan2025 00:18:22.079] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.darkness_effect was corrected from null to its default, true. 
+[05Jan2025 00:18:22.080] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.darkness_effect_duration was corrected from null to its default, 150.0. 
+[05Jan2025 00:18:22.082] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.break_blocks was corrected from null to its default, true. 
+[05Jan2025 00:18:22.084] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.lightnings was corrected from null to its default, true. 
+[05Jan2025 00:18:22.086] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.spawn_sounds was corrected from null to its default, true. 
+[05Jan2025 00:18:22.088] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.stage1_spawn_rate was corrected from null to its default, 600.0. 
+[05Jan2025 00:18:22.091] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.stage2_spawn_rate was corrected from null to its default, 900.0. 
+[05Jan2025 00:18:22.093] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.old_stalk_mechanic was corrected from null to its default, false. 
+[05Jan2025 00:18:22.095] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.legacy_man was corrected from null to its default, false. 
+[05Jan2025 00:18:22.096] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.search_mechanic was corrected from null to its default, true. 
+[05Jan2025 00:18:22.098] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.block_hardness was corrected from null to its default, 2.0. 
+[05Jan2025 00:18:22.100] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.block_hardness_search was corrected from null to its default, 5.0. 
+[05Jan2025 00:18:22.101] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server and Client.block_break_timer was corrected from null to its default, 10.0. 
+[05Jan2025 00:18:22.126] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[05Jan2025 00:18:22.212] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[05Jan2025 00:18:22.371] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[05Jan2025 00:18:22.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[05Jan2025 00:18:22.836] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[05Jan2025 00:18:22.837] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[05Jan2025 00:18:22.837] [main/INFO] [terrablender/]: Registered region nyctophobia:biome_provider to index 1 for type OVERWORLD
+[05Jan2025 00:18:23.022] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
+[05Jan2025 00:18:23.023] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
+[05Jan2025 00:18:23.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
+[05Jan2025 00:18:23.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Jan2025 00:18:23.225] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[05Jan2025 00:18:23.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[05Jan2025 00:18:23.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.3.6 Target: null
+[05Jan2025 00:18:23.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[05Jan2025 00:18:23.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[05Jan2025 00:18:28.271] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Jan2025 00:18:28.394] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mierda2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23153!/assets/.mcassetsroot' uses unexpected schema
+[05Jan2025 00:18:28.395] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mierda2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23153!/data/.mcassetsroot' uses unexpected schema
+[05Jan2025 00:18:36.498] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
+[05Jan2025 00:18:37.435] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
+com.google.gson.JsonSyntaxException: Missing conditions, expected to find a JsonArray
+	at net.minecraft.util.GsonHelper.m_13933_(GsonHelper.java:447) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
+	at net.minecraftforge.common.crafting.ConditionalRecipe$Serializer.fromJson(ConditionalRecipe.java:56) ~[forge-1.20.1-47.3.7-universal.jar%23158!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[05Jan2025 00:18:37.453] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[05Jan2025 00:18:37.461] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[04Jan2025 03:45:07.632] [main/ERROR] [net.minecraft.advancements.AdvancementTree/]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[04Jan2025 03:45:07.633] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1876 advancements
-[04Jan2025 03:45:08.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
-[04Jan2025 03:45:08.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[04Jan2025 03:45:08.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[04Jan2025 03:45:08.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[04Jan2025 03:45:08.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[04Jan2025 03:45:09.082] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[04Jan2025 03:45:09.149] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04Jan2025 03:45:09.150] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[04Jan2025 03:45:09.150] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04Jan2025 03:45:09.151] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[04Jan2025 03:45:09.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[04Jan2025 03:45:18.184] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/[::1]:59938] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
-[04Jan2025 03:45:42.414] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/[::1]:46590] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
-[04Jan2025 03:46:35.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[04Jan2025 03:46:37.391] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 03:46:37.391] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 03:46:37.392] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 03:46:37.392] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 03:46:37.589] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 03:46:37.683] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2125 ms
-[04Jan2025 03:46:37.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (88.513s)! For help, type "help"
-[04Jan2025 03:46:37.706] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[04Jan2025 03:48:42.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kayncer[/[::1]:49560] logged in with entity id 10 at (59.056625704378234, 123.0153576768835, 235.04982428898606)
-[04Jan2025 03:48:43.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer joined the game
-[04Jan2025 03:48:46.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[04Jan2025 03:49:22.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
-[04Jan2025 03:49:23.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/[::1]:58914] logged in with entity id 210 at (57.5, 128.0, 0.5)
-[04Jan2025 03:49:23.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
-[04Jan2025 03:49:40.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kayncer> serveo.net:37876
-[04Jan2025 03:49:54.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
-[04Jan2025 03:50:27.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Sandcrawler'/690, l='ServerLevel[world]', x=139.50, y=-400.00, z=157.50] died: Sandcrawler was killed
-[04Jan2025 03:50:32.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Sandcrawler'/723, l='ServerLevel[world]', x=127.50, y=-400.00, z=155.50] died: Sandcrawler was killed
-[04Jan2025 03:50:52.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! -0.306634139990436,0.41999998688697815,-10.3742071161343
-[04Jan2025 03:50:52.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! 1.7051109841271064,-1.1866870787446828,9.904087388588408
-[04Jan2025 03:50:52.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2946ms or 58 ticks behind
-[04Jan2025 03:51:21.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! 0.9330168967633625,-8.768476202412984,-4.921100067069204
-[04Jan2025 03:51:21.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4876ms or 97 ticks behind
-[04Jan2025 03:51:23.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick fell from a high place
-[04Jan2025 03:54:12.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Monster Hunter]
-[04Jan2025 03:54:16.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Monster Hunter]
-[04Jan2025 03:54:56.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Zombie
-[04Jan2025 03:55:36.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Sandcrawler'/3117, l='ServerLevel[world]', x=-60.50, y=125.00, z=-109.10] died: Sandcrawler suffocated in a wall
-[04Jan2025 03:55:58.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Sweet Dreams]
-[04Jan2025 03:56:37.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Sandcrawler'/3327, l='ServerLevel[world]', x=94.94, y=130.94, z=-190.34] died: Sandcrawler was slain by Iron Golem
-[04Jan2025 03:56:39.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by Zombie
-[04Jan2025 03:57:10.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
-[04Jan2025 03:58:13.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
-[04Jan2025 03:58:24.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Ice Bucket Challenge]
-[04Jan2025 03:58:49.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=442, y=123, z=-73} BlockPos{x=443, y=121, z=-73}
-[04Jan2025 03:59:08.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Gamerule keepInventory is now set to: true]
-[04Jan2025 03:59:34.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by Zombie
-[04Jan2025 03:59:41.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was pricked to death
-[04Jan2025 04:00:03.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Sandcrawler'/5873, l='ServerLevel[world]', x=100.01, y=124.02, z=-179.98] died: Sandcrawler suffocated in a wall
-[04Jan2025 04:01:29.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer lost connection: Timed out
-[04Jan2025 04:01:29.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer left the game
-[04Jan2025 04:01:29.349] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[04Jan2025 04:01:45.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Husk
-[04Jan2025 04:01:54.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Timed out
-[04Jan2025 04:01:54.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[05Jan2025 00:18:37.719] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2262 advancements
+[05Jan2025 00:18:37.761] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[05Jan2025 00:18:37.762] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[05Jan2025 00:18:37.762] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[05Jan2025 00:18:37.763] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[05Jan2025 00:18:37.800] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[05Jan2025 00:18:37.806] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[05Jan2025 00:18:37.807] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[05Jan2025 00:18:37.809] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[05Jan2025 00:18:40.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Jan2025 00:18:40.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Jan2025 00:18:40.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Jan2025 00:18:40.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Jan2025 00:18:41.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Jan2025 00:18:41.174] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Jan2025 00:18:41.367] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Jan2025 00:18:41.367] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Jan2025 00:18:41.368] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Jan2025 00:18:41.368] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Jan2025 00:18:41.399] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/lostcities-server.toml is not correct. Correcting
+[05Jan2025 00:18:41.400] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:41.401] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.specialBedBlock was corrected from null to its default, minecraft:diamond_block. 
+[05Jan2025 00:18:41.401] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.selectedProfile was corrected from null to its default, <CHECK>. 
+[05Jan2025 00:18:41.402] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.selectedCustomJson was corrected from null to its default, . 
+[05Jan2025 00:18:41.403] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.todoQueueSize was corrected from null to its default, 20. 
+[05Jan2025 00:18:41.403] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.forceSaplingGrowth was corrected from null to its default, true. 
+[05Jan2025 00:18:41.405] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.avoidStructures was corrected from null to its default, [minecraft:mansion, minecraft:jungle_pyramid, minecraft:desert_pyramid, minecraft:igloo, minecraft:swamp_huts, minecraft:pillager_outpost]. 
+[05Jan2025 00:18:41.406] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.avoidStructuresAdjacent was corrected from null to its default, false. 
+[05Jan2025 00:18:41.407] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.avoidVillagesAdjacent was corrected from null to its default, false. 
+[05Jan2025 00:18:41.408] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.avoidFlattening was corrected from null to its default, true. 
+[05Jan2025 00:18:41.420] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/additionalstructures-server.toml is not correct. Correcting
+[05Jan2025 00:18:41.421] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:41.422] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.patreon_rewards was corrected from null to its default, true. 
+[05Jan2025 00:18:41.428] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/dynamictrees-server.toml is not correct. Correcting
+[05Jan2025 00:18:41.430] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:41.431] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds.leavesSeedDropRate was corrected from null to its default, 1.0. 
+[05Jan2025 00:18:41.431] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds.voluntarySeedDropRate was corrected from null to its default, 0.01. 
+[05Jan2025 00:18:41.432] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds.seedPlantRate was corrected from null to its default, 0.1666666716337204. 
+[05Jan2025 00:18:41.441] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds.timeToLive was corrected from null to its default, 1200. 
+[05Jan2025 00:18:41.442] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds.seedOnlyForest was corrected from null to its default, true. 
+[05Jan2025 00:18:41.444] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds.seedMinForestness was corrected from null to its default, 0.0. 
+[05Jan2025 00:18:41.447] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:41.448] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.growthMultiplier was corrected from null to its default, 0.5. 
+[05Jan2025 00:18:41.449] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.harvestMultiplier was corrected from null to its default, 1.0. 
+[05Jan2025 00:18:41.450] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.maxTreeHardness was corrected from null to its default, 20.0. 
+[05Jan2025 00:18:41.451] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.treeHardnessMultiplier was corrected from null to its default, 1.0. 
+[05Jan2025 00:18:41.452] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.growthFolding was corrected from null to its default, 2. 
+[05Jan2025 00:18:41.454] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.dropSticks was corrected from null to its default, true. 
+[05Jan2025 00:18:41.456] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.scaleBiomeGrowthRate was corrected from null to its default, 0.5. 
+[05Jan2025 00:18:41.457] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.diseaseChance was corrected from null to its default, 0.0. 
+[05Jan2025 00:18:41.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.maxBranchRotRadius was corrected from null to its default, 7. 
+[05Jan2025 00:18:41.460] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.rootyBlockHardnessMultiplier was corrected from null to its default, 40.0. 
+[05Jan2025 00:18:41.462] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.swampOaksInWater was corrected from null to its default, ROOTED. 
+[05Jan2025 00:18:41.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.boneMealGrowthPulses was corrected from null to its default, 1. 
+[05Jan2025 00:18:41.469] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:41.471] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.isLeavesPassable was corrected from null to its default, false. 
+[05Jan2025 00:18:41.472] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.vanillaLeavesCollision was corrected from null to its default, false. 
+[05Jan2025 00:18:41.473] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.enableBranchClimbling was corrected from null to its default, true. 
+[05Jan2025 00:18:41.474] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.canopyCrash was corrected from null to its default, true. 
+[05Jan2025 00:18:41.475] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.axeDamageMode was corrected from null to its default, THICKNESS. 
+[05Jan2025 00:18:41.476] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.enableFallingTrees was corrected from null to its default, true. 
+[05Jan2025 00:18:41.478] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.enableFallingTreeDamage was corrected from null to its default, true. 
+[05Jan2025 00:18:41.479] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.fallingTreeDamageMultiplier was corrected from null to its default, 1.0. 
+[05Jan2025 00:18:41.480] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.dirtBucketPlacesDirt was corrected from null to its default, true. 
+[05Jan2025 00:18:41.480] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.sloppyBreakDrops was corrected from null to its default, false. 
+[05Jan2025 00:18:41.482] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.minRadiusForStrip was corrected from null to its default, 6. 
+[05Jan2025 00:18:41.484] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.enableStripRadiusReduction was corrected from null to its default, true. 
+[05Jan2025 00:18:41.486] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.canBoneMealFruit was corrected from null to its default, false. 
+[05Jan2025 00:18:41.487] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.canBoneMealPods was corrected from null to its default, true. 
+[05Jan2025 00:18:41.488] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.dynamicSaplingDrops was corrected from null to its default, true. 
+[05Jan2025 00:18:41.492] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key growthFolding was corrected from null to its default, 400. 
+[05Jan2025 00:18:41.495] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:41.495] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.podzolGen was corrected from null to its default, true. 
+[05Jan2025 00:18:41.496] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.worldGen was corrected from null to its default, true. 
+[05Jan2025 00:18:41.497] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.dimensionsBlacklist was corrected from null to its default, []. 
+[05Jan2025 00:18:41.504] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key debug was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:41.505] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key debug.debug was corrected from null to its default, false. 
+[05Jan2025 00:18:41.514] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[05Jan2025 00:18:41.515] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Jan2025 00:18:41.515] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[05Jan2025 00:18:41.516] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[05Jan2025 00:18:41.517] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[05Jan2025 00:18:41.520] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[05Jan2025 00:18:41.520] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[05Jan2025 00:18:41.524] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[05Jan2025 00:18:41.524] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[05Jan2025 00:18:41.697] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[05Jan2025 00:18:42.081] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[05Jan2025 00:18:42.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Jan2025 00:19:14.527] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[05Jan2025 00:19:24.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Jan2025 00:19:36.839] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:36.880] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:36.885] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:36.896] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:36.897] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:36.957] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:36.960] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.035] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.038] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.141] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.144] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.179] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.181] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.195] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.197] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.262] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.423] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.430] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.432] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.468] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.469] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.470] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.501] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.504] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.505] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.518] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.815] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:37.831] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:38.387] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:38.819] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:39.306] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:39.830] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:40.327] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:41.043] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:41.308] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:41.950] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:42.381] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:42.833] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:43.397] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:43.825] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:44.344] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:44.818] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:45.316] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:45.881] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:46.445] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 00:19:46.831] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[05Jan2025 00:19:47.307] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:47.804] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:48.305] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:48.807] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:49.325] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:49.851] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:50.304] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:50.811] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:51.472] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:51.909] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:52.306] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:53.000] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:53.322] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:53.830] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:54.326] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:54.813] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:55.315] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:55.813] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[05Jan2025 00:19:56.396] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[05Jan2025 00:19:56.808] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[05Jan2025 00:19:57.338] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[05Jan2025 00:19:57.829] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[05Jan2025 00:19:58.465] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[05Jan2025 00:19:58.820] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[05Jan2025 00:19:59.415] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[05Jan2025 00:19:59.813] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[05Jan2025 00:20:00.333] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[05Jan2025 00:20:00.878] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[05Jan2025 00:20:01.369] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[05Jan2025 00:20:01.904] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[05Jan2025 00:20:02.309] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[05Jan2025 00:20:02.904] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[05Jan2025 00:20:03.394] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[05Jan2025 00:20:03.818] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:04.313] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:04.831] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:05.341] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:05.810] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:06.331] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:06.828] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:07.336] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:07.808] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:08.322] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:08.847] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:09.367] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:09.812] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:10.304] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:10.837] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:11.313] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:11.805] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:12.348] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:12.839] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:13.341] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:13.808] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:14.316] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:14.822] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[05Jan2025 00:20:15.461] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[05Jan2025 00:20:15.853] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
+[05Jan2025 00:20:16.310] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[05Jan2025 00:20:16.903] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[05Jan2025 00:20:17.310] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[05Jan2025 00:20:17.891] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[05Jan2025 00:20:18.317] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
+[05Jan2025 00:20:18.888] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 29%
+[05Jan2025 00:20:19.372] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[05Jan2025 00:20:19.814] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[05Jan2025 00:20:20.305] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[05Jan2025 00:20:20.847] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[05Jan2025 00:20:21.316] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[05Jan2025 00:20:21.826] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[05Jan2025 00:20:22.305] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[05Jan2025 00:20:22.806] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[05Jan2025 00:20:23.307] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[05Jan2025 00:20:23.850] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[05Jan2025 00:20:24.425] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[05Jan2025 00:20:24.902] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[05Jan2025 00:20:25.310] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[05Jan2025 00:20:25.875] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
+[05Jan2025 00:20:26.410] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
+[05Jan2025 00:20:26.810] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:27.319] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:27.843] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:28.320] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:28.837] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:29.305] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:29.845] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:30.333] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:30.833] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:31.320] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:31.849] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:32.493] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:32.813] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:33.378] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:33.934] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:34.311] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:34.846] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:35.366] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:35.830] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jan2025 00:20:36.340] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
+[05Jan2025 00:20:36.835] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[05Jan2025 00:20:37.308] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
+[05Jan2025 00:20:37.867] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
+[05Jan2025 00:20:38.315] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
+[05Jan2025 00:20:38.808] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[05Jan2025 00:20:39.341] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[05Jan2025 00:20:39.806] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[05Jan2025 00:20:40.445] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[05Jan2025 00:20:40.821] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[05Jan2025 00:20:41.304] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[05Jan2025 00:20:41.861] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[05Jan2025 00:20:42.341] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[05Jan2025 00:20:42.837] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[05Jan2025 00:20:43.375] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[05Jan2025 00:20:43.807] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[05Jan2025 00:20:44.305] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[05Jan2025 00:20:44.820] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[05Jan2025 00:20:45.325] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[05Jan2025 00:20:45.856] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[05Jan2025 00:20:46.324] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[05Jan2025 00:20:46.903] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[05Jan2025 00:20:47.486] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[05Jan2025 00:20:47.825] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[05Jan2025 00:20:48.321] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[05Jan2025 00:20:48.929] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
+[05Jan2025 00:20:49.406] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
+[05Jan2025 00:20:49.814] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:50.330] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:50.812] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:51.346] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:51.890] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:52.349] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:52.816] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:53.350] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:53.850] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:54.496] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:54.910] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:55.329] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:55.812] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[05Jan2025 00:20:55.825] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:56.335] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:56.839] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[05Jan2025 00:20:57.312] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[05Jan2025 00:20:57.841] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[05Jan2025 00:20:58.309] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[05Jan2025 00:20:58.840] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[05Jan2025 00:20:59.323] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
+[05Jan2025 00:20:59.805] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[05Jan2025 00:21:00.330] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[05Jan2025 00:21:00.812] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[05Jan2025 00:21:01.336] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[05Jan2025 00:21:01.828] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[05Jan2025 00:21:02.396] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[05Jan2025 00:21:02.883] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[05Jan2025 00:21:03.308] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[05Jan2025 00:21:03.804] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[05Jan2025 00:21:04.305] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[05Jan2025 00:21:04.870] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[05Jan2025 00:21:05.373] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[05Jan2025 00:21:05.843] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[05Jan2025 00:21:06.355] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[05Jan2025 00:21:06.848] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[05Jan2025 00:21:07.316] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[05Jan2025 00:21:07.811] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[05Jan2025 00:21:08.388] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
+[05Jan2025 00:21:08.844] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
+[05Jan2025 00:21:09.359] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[05Jan2025 00:21:09.837] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[05Jan2025 00:21:10.342] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[05Jan2025 00:21:10.809] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[05Jan2025 00:21:11.385] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[05Jan2025 00:21:11.821] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
+[05Jan2025 00:21:12.311] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
+[05Jan2025 00:21:12.809] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
+[05Jan2025 00:21:13.310] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[05Jan2025 00:21:13.832] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
+[05Jan2025 00:21:14.391] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
+[05Jan2025 00:21:14.425] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 110122 ms
+[05Jan2025 00:21:14.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (153.030s)! For help, type "help"
+[05Jan2025 00:21:14.492] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Jan2025 00:21:49.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/[::1]:52942] logged in with entity id 160 at (-0.5, 240.0, 8.5)
+[05Jan2025 00:21:49.095] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to mainyorick
+[05Jan2025 00:21:49.098] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to mainyorick
+[05Jan2025 00:21:49.102] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to mainyorick
+[05Jan2025 00:21:49.103] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to mainyorick
+[05Jan2025 00:21:49.118] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to mainyorick
+[05Jan2025 00:21:49.123] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to mainyorick
+[05Jan2025 00:21:49.124] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to mainyorick
+[05Jan2025 00:21:49.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
+[05Jan2025 00:21:51.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Ghost Riders In The Sky]
+[05Jan2025 00:22:14.397] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b9972d8[id=<null>,name=kayncer,properties={},legacy=false] (/[::1]:52954) lost connection: Timed out
+[05Jan2025 00:22:31.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=233, z=4}
+[05Jan2025 00:22:32.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=233, z=4}
+[05Jan2025 00:22:33.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=233, z=3}
+[05Jan2025 00:22:36.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=232, z=4}
+[05Jan2025 00:22:38.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=232, z=4}
+[05Jan2025 00:22:38.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=233, z=4}
+[05Jan2025 00:22:46.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Hoglin
+[05Jan2025 00:22:58.077] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@691424c5[id=<null>,name=kayncer,properties={},legacy=false] (/[::1]:54130) lost connection: Timed out
+[05Jan2025 00:23:00.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was doomed to fall
+[05Jan2025 00:23:00.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [The Lighthouse]
+[05Jan2025 00:23:17.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick fell from a high place
+[05Jan2025 00:23:31.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=80, z=-4}
+[05Jan2025 00:23:32.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=81, z=-4}
+[05Jan2025 00:23:35.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=79, z=-4}
+[05Jan2025 00:23:35.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=80, z=-4}
+[05Jan2025 00:23:35.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=79, z=-4}
+[05Jan2025 00:23:35.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=79, z=-5}
+[05Jan2025 00:26:39.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has reached the goal [Feeling Watched]
+[05Jan2025 00:27:45.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Stone Age]

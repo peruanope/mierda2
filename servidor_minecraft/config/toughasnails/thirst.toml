@@ -1,3 +1,4 @@
+
 [general]
 	#The threshold at which exhaustion causes a reduction in hydration and the thirst bar.
 	exhaustion_threshold = 8.0
@@ -19,3 +20,4 @@
 	remove_source_blocks = false
 	#Enable or disable hand drinking.
 	enable_hand_drinking = false
+
