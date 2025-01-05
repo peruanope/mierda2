@@ -292,3 +292,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 04:07:22.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
 [05Jan2025 04:07:52.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
 [05Jan2025 04:08:02.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[05Jan2025 04:10:31.688] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[05Jan2025 04:11:14.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [The Tear Of The Man]
+[05Jan2025 04:14:21.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Not Today, Thank You]
+[05Jan2025 04:14:51.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Take Aim]
+[05Jan2025 04:19:38.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! -9.754288795340813,-2.333059455978912,2.513826826105742
+[05Jan2025 04:19:38.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[05Jan2025 04:19:43.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! -8.962933717996862,-1.1661092609382138,5.076481996544544
+[05Jan2025 04:21:27.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! -7.365646841081912,-5.121296840539202,4.749773400304207
+[05Jan2025 04:21:27.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4709ms or 94 ticks behind
+[05Jan2025 04:22:52.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[05Jan2025 04:22:56.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[05Jan2025 04:23:00.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[05Jan2025 04:23:32.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[05Jan2025 04:24:21.721] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #medieval_buildings:has_structure/house_1 (minecraft:snowy_plains) took 23 ms
+[05Jan2025 04:24:27.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to 394.500000, 87.000000, -211.500000]
+[05Jan2025 04:24:44.929] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #medieval_buildings:has_structure/house_1 (minecraft:snowy_plains) took 4 ms
+[05Jan2025 04:24:46.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to 394.500000, 87.000000, -211.500000]
+[05Jan2025 04:24:52.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Jan2025 04:24:53.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[05Jan2025 04:26:13.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer lost connection: Timed out
+[05Jan2025 04:26:13.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer left the game
+[05Jan2025 04:26:55.940] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=59, z=8}
+[05Jan2025 04:29:29.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Timed out
+[05Jan2025 04:29:29.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
