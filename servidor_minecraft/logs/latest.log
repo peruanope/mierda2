@@ -669,3 +669,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 00:23:35.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=79, z=-5}
 [05Jan2025 00:26:39.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has reached the goal [Feeling Watched]
 [05Jan2025 00:27:45.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Stone Age]
+[05Jan2025 00:28:07.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Getting an Upgrade]
+[05Jan2025 00:28:30.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[05Jan2025 00:29:10.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Monster Hunter]
+[05Jan2025 00:29:50.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Zombie
+[05Jan2025 00:30:04.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Timed out
+[05Jan2025 00:30:04.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[05Jan2025 00:30:46.491] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [waystones:network] rejected their client side version number
+[05Jan2025 00:30:46.492] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[05Jan2025 00:30:46.505] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@408f29ad[id=<null>,name=kayncer,properties={},legacy=false] (/[::1]:38890) lost connection: Connection closed - mismatched mod channel list
+[05Jan2025 00:32:22.410] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [waystones:network] rejected their client side version number
+[05Jan2025 00:32:22.411] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[05Jan2025 00:32:22.453] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d970dff[id=<null>,name=kayncer,properties={},legacy=false] (/[::1]:47686) lost connection: Connection closed - mismatched mod channel list
