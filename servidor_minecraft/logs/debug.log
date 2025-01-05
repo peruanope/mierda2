@@ -3050,3 +3050,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 04:27:56.730] [Worker-Main-11/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JORJxxxx+XfvV9pfmMJJPbJJP
 [05Jan2025 04:29:29.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Timed out
 [05Jan2025 04:29:29.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[05Jan2025 04:32:16.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 04:32:16.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 04:37:16.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 04:37:16.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
