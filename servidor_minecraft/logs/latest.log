@@ -249,3 +249,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 03:59:12.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
 [05Jan2025 03:59:19.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer fell from a high place
 [05Jan2025 03:59:28.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer fell from a high place
+[05Jan2025 03:59:35.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer fell from a high place
+[05Jan2025 03:59:37.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=73, z=11} BlockPos{x=-8, y=85, z=3}
+[05Jan2025 03:59:42.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer was kicked for floating too long!
+[05Jan2025 03:59:42.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer lost connection: Disconnected
+[05Jan2025 03:59:42.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer left the game
+[05Jan2025 03:59:42.748] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jan2025 03:59:54.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kayncer[/[::1]:34234] logged in with entity id 3499 at (-3.9870174970485914, 101.23527968815395, 1.5155004474940676)
+[05Jan2025 03:59:54.559] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to kayncer
+[05Jan2025 03:59:54.559] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to kayncer
+[05Jan2025 03:59:54.560] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to kayncer
+[05Jan2025 03:59:54.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to kayncer
+[05Jan2025 03:59:54.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to kayncer
+[05Jan2025 03:59:54.566] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to kayncer
+[05Jan2025 03:59:54.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to kayncer
+[05Jan2025 03:59:54.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer joined the game
+[05Jan2025 03:59:58.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer fell from a high place
+[05Jan2025 04:00:05.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer was kicked for floating too long!
+[05Jan2025 04:00:05.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer lost connection: Flying is not enabled on this server
+[05Jan2025 04:00:05.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer left the game
+[05Jan2025 04:00:05.697] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jan2025 04:00:13.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kayncer[/[::1]:36664] logged in with entity id 3566 at (13.740392525771265, 93.23527968815394, 14.354207907064959)
+[05Jan2025 04:00:13.957] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to kayncer
+[05Jan2025 04:00:13.958] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to kayncer
+[05Jan2025 04:00:13.958] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to kayncer
+[05Jan2025 04:00:13.959] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to kayncer
+[05Jan2025 04:00:13.961] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to kayncer
+[05Jan2025 04:00:13.964] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to kayncer
+[05Jan2025 04:00:13.964] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to kayncer
+[05Jan2025 04:00:13.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer joined the game
+[05Jan2025 04:00:17.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer fell from a high place
+[05Jan2025 04:00:17.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [The Lighthouse]
+[05Jan2025 04:00:33.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[05Jan2025 04:00:57.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[05Jan2025 04:02:08.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Cover Me with Diamonds]
+[05Jan2025 04:03:24.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22377ms or 447 ticks behind
+[05Jan2025 04:03:24.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[05Jan2025 04:03:24.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! 2.0745628636941085,5.166109260938214,8.40801924634846
+[05Jan2025 04:04:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[05Jan2025 04:04:21.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[05Jan2025 04:07:12.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer froze to death
+[05Jan2025 04:07:22.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[05Jan2025 04:07:52.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[05Jan2025 04:08:02.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
