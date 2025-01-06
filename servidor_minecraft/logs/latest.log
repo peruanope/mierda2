@@ -278,3 +278,78 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:45:37.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
 [06Jan2025 04:46:40.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer lost connection: Timed out
 [06Jan2025 04:46:40.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer left the game
+[06Jan2025 04:48:52.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cojeburras[/[::1]:44090] logged in with entity id 6599 at (6.5, 218.0, 5.5)
+[06Jan2025 04:48:52.387] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Cojeburras
+[06Jan2025 04:48:52.387] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Cojeburras
+[06Jan2025 04:48:52.388] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Cojeburras
+[06Jan2025 04:48:52.394] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Cojeburras
+[06Jan2025 04:48:52.405] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Cojeburras
+[06Jan2025 04:48:52.414] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Cojeburras
+[06Jan2025 04:48:52.416] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Cojeburras
+[06Jan2025 04:48:52.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cojeburras joined the game
+[06Jan2025 04:48:53.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cojeburras has made the advancement [Ghost Riders In The Sky]
+[06Jan2025 04:49:07.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=217, z=5}
+[06Jan2025 04:49:19.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cojeburras was burnt to a crisp whilst fighting Wither Skeleton
+[06Jan2025 04:49:36.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cojeburras was shot by Wither Skeleton
+[06Jan2025 04:50:07.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cojeburras lost connection: Timed out
+[06Jan2025 04:50:07.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cojeburras left the game
+[06Jan2025 04:57:43.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elcojeburras19x[/[::1]:56262] logged in with entity id 8997 at (-3.5, 86.0, 9.5)
+[06Jan2025 04:57:43.785] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elcojeburras19x
+[06Jan2025 04:57:43.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elcojeburras19x
+[06Jan2025 04:57:43.801] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elcojeburras19x
+[06Jan2025 04:57:43.802] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elcojeburras19x
+[06Jan2025 04:57:43.813] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elcojeburras19x
+[06Jan2025 04:57:43.817] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elcojeburras19x
+[06Jan2025 04:57:43.818] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elcojeburras19x
+[06Jan2025 04:57:43.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x joined the game
+[06Jan2025 04:57:44.355] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@570df713[id=<null>,name=elcojeburras19x,properties={},legacy=false] (/[::1]:34214) lost connection: Timed out
+[06Jan2025 04:58:22.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=86, z=-3}
+[06Jan2025 04:58:31.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=86, z=-3}
+[06Jan2025 04:58:36.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=85, z=-3}
+[06Jan2025 04:58:37.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=86, z=-4}
+[06Jan2025 04:58:38.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=86, z=-4}
+[06Jan2025 04:58:38.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=86, z=-5}
+[06Jan2025 04:58:38.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=86, z=-5}
+[06Jan2025 04:58:44.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=86, z=-13}
+[06Jan2025 04:58:44.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=86, z=-12}
+[06Jan2025 04:58:53.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=84, z=-17} BlockPos{x=-11, y=85, z=-1}
+[06Jan2025 04:58:53.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=84, z=-17} BlockPos{x=-11, y=85, z=0}
+[06Jan2025 04:58:53.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=84, z=-17} BlockPos{x=-11, y=85, z=-1}
+[06Jan2025 04:58:53.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=84, z=-17} BlockPos{x=-12, y=85, z=-1}
+[06Jan2025 04:58:57.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=84, z=-17} BlockPos{x=-12, y=86, z=0}
+[06Jan2025 04:59:21.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[06Jan2025 04:59:23.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made elcojeburras19x a server operator
+[06Jan2025 04:59:30.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Set own game mode to Creative Mode]
+[06Jan2025 04:59:32.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x has made the advancement [Cover Me with Diamonds]
+[06Jan2025 04:59:35.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x has made the advancement [Stone Age]
+[06Jan2025 04:59:38.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x has made the advancement [Ice Bucket Challenge]
+[06Jan2025 04:59:38.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x has made the advancement [Acquire Hardware]
+[06Jan2025 04:59:39.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x has made the advancement [Diamonds!]
+[06Jan2025 04:59:40.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3513ms or 70 ticks behind
+[06Jan2025 04:59:49.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Set own game mode to Survival Mode]
+[06Jan2025 05:00:00.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Teleported elcojeburras19x to mainyorick]
+[06Jan2025 05:00:15.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x has made the advancement [Sweet Dreams]
+[06Jan2025 05:01:45.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x was slain by mainyorick
+[06Jan2025 05:01:54.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Set own game mode to Creative Mode]
+[06Jan2025 05:02:03.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Set own game mode to Survival Mode]
+[06Jan2025 05:02:50.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x has reached the goal [Feeling Watched]
+[06Jan2025 05:04:23.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Set own game mode to Creative Mode]
+[06Jan2025 05:04:32.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Set own game mode to Survival Mode]
+[06Jan2025 05:06:05.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x has made the advancement [Monster Hunter]
+[06Jan2025 05:09:16.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x was killed by Area Effect Cloud using magic
+[06Jan2025 05:09:43.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Set own game mode to Spectator Mode]
+[06Jan2025 05:10:06.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Set own game mode to Survival Mode]
+[06Jan2025 05:11:58.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Set own game mode to Spectator Mode]
+[06Jan2025 05:12:09.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Set own game mode to Survival Mode]
+[06Jan2025 05:12:45.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Teleported elcojeburras19x to mainyorick]
+[06Jan2025 05:13:17.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x was slain by Man From The Fog
+[06Jan2025 05:15:00.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x was slain by mainyorick
+[06Jan2025 05:18:45.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Set own game mode to Spectator Mode]
+[06Jan2025 05:18:57.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Set own game mode to Creative Mode]
+[06Jan2025 05:19:24.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elcojeburras19x: Set own game mode to Survival Mode]
+[06Jan2025 05:23:06.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Piglin Brute
+[06Jan2025 05:23:52.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Timed out
+[06Jan2025 05:23:52.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[06Jan2025 05:24:13.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x has made the advancement [The Lighthouse]
+[06Jan2025 05:25:16.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elcojeburras19x lost connection: Timed out
+[06Jan2025 05:25:16.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elcojeburras19x left the game
